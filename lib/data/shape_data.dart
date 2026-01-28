@@ -30,7 +30,7 @@ final List<ShapeModel> shapesList = [
     name: 'Ellipse',
     color: Colors.green,
     image: 'assets/images/shapes/ellipse-48.png',
-    audio: 'sounds/shapes/ellipse.mp3',
+    audio: 'sounds/shapes/Ellipse.mp3',
   ),
   ShapeModel(
     name: 'Rectangle',

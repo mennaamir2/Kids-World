@@ -1,76 +1,67 @@
 # 🎨 Kids World
 
-Kids World هو تطبيق تعليمي للأطفال معمول بـ **Flutter**، بيقدّم محتوى بسيط وممتع لتعليم الأطفال من خلال **الصوت والصورة** 👶✨
+**Kids World** is a **fun and educational app for children** built with **Flutter**. It teaches kids basic concepts like **letters, numbers, colors, shapes, and animals** through **images and sounds**. 👶✨  
 
 ---
+
 ## 📸 App Screenshots
 
-### 🚀 Splash Screen
-![Splash](assets/images/screens/splash.png)
-
-### 🏠 Home Screen
-![Home](assets/images/screens/home.png)
-
-### 🅰️ Alphabet
-![Alphabet](assets/images/screens/alphabet.png)
-
-### 🔢 Numbers
-![Numbers](assets/images/screens/numbers.png)
-
-### 🎨 Colors
-![Colors](assets/images/screens/colors.png)
-
-### 🔺 Shapes
-![Shapes](assets/images/screens/shapes.png)
-
-### 🐾 Animals
-![Animals](assets/images/screens/animals.png)
+<table>
+  <tr>
+    <td><img src="assets/images/screens/splash.png" width="300"/></td>
+    <td><img src="assets/images/screens/home.png" width="300"/></td>
+    <td><img src="assets/images/screens/alphabet.png" width="300"/></td>
+    <td><img src="assets/images/screens/numbers.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/screens/colors.png" width="300"/></td>
+    <td><img src="assets/images/screens/shapes.png" width="300"/></td>
+    <td><img src="assets/images/screens/animals.png" width="300"/></td>
+  </tr>
+</table>
 
 
-
-## 📱 Features
-
-- 🅰️ **ABC**
-    - حروف إنجليزي
-    - نطق كل حرف بصوته
-
-- 🔢 **Numbers**
-    - الأرقام من 1 إلى 10
-    - نطق الأرقام بالصوت
-
-- 🎨 **Colors**
-    - تعليم الألوان
-    - صوت لكل لون
-
-- 🔺 **Shapes**
-    - الأشكال الأساسية
-    - نطق اسم كل شكل
-
-- 🐾 **Animals**
-    - صور حيوانات
-    - صوت الحيوان + اسمه
 
 ---
 
-## 🚀 App Screens
+## 🌟 Features
 
-- **Splash Screen**
-- **Home Screen** (Categories)
-- Screen لكل Category فيها:
-    - Data (اسم / صورة)
-    - Sound (Audio)
+- 🅰️ **ABC (Alphabet)**  
+  Learn English letters with **pronunciation for each letter**.
+
+- 🔢 **Numbers**  
+  Learn numbers from 1 to 20 with **audio pronunciation**.
+
+- 🎨 **Colors**  
+  Learn basic colors visually and by **sound**.
+
+- 🔺 **Shapes**  
+  Learn basic shapes with **visuals and pronunciation**.
+
+- 🐾 **Animals**  
+  Learn animal names and hear their **sounds**.
+
+- 🌐 **Beautiful UI**  
+  Simple, engaging, and kid-friendly interface.
 
 ---
 
 ## 🛠️ Built With
 
-- **Flutter**
-- **Dart**
-- Assets:
-    - Images
-    - Audio files (mp3 / wav)
+- **Flutter**  
+- **Dart**  
+- **Assets:**  
+  - Images (optimized for mobile)  
+  - Audio files (mp3 / wav)  
 
 ---
+
+
+## ⚡ Installation
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/mennaamir2/Kids-World.git
 
 ## 📂 Project Structure
 
